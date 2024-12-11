@@ -2924,6 +2924,10 @@ article, aside, details, figcaption, footer, header, hgroup, nav, section {
 		transform: translate(-50%, -50%);
 	}
 
+	#content-scroll {
+		overflow: hidden;
+	}
+
 }
 
 .img-celular {
@@ -3086,7 +3090,7 @@ article, aside, details, figcaption, footer, header, hgroup, nav, section {
 	}
 
 	#content-scroll {
-		max-height: 70%;
+		overflow: hidden;
 	}
 	
 }
