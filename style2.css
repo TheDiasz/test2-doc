@@ -3084,6 +3084,10 @@ article, aside, details, figcaption, footer, header, hgroup, nav, section {
 	#swiper-wrapper {
 		overflow: hidden;
 	}
+
+	#showcase-holder {
+		max-height: 70%;
+	}
 	
 }
 
