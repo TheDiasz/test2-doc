@@ -60,7 +60,7 @@ Primary use:	Showcase Portfolio
 		opacity:0;
 	}
 
-	button, a {
+	img {
 	  -webkit-tap-highlight-color: transparent;
 	  outline: none;
 	}
