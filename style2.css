@@ -29,7 +29,10 @@ Primary use:	Showcase Portfolio
 /*--------------------------------------------------
 	01. General Settings
 ---------------------------------------------------*/		
-	
+	main {
+		overflow-y: hidden;
+	}
+
 	html, body {
   font-family: 'Poppins', sans-serif;
   font-weight: 300;
