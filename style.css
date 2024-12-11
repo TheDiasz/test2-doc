@@ -3076,6 +3076,10 @@ Primary use:	Showcase Portfolio
 	.doc-parte1 {
 		width: 300px;
 	}
+
+	#swiper-wrapper {
+		overflow: hidden;
+	}
 	
 }
 
