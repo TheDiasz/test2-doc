@@ -3085,7 +3085,7 @@ article, aside, details, figcaption, footer, header, hgroup, nav, section {
 		overflow: hidden;
 	}
 
-	#showcase-holder {
+	#content-scroll {
 		max-height: 70%;
 	}
 	
