@@ -39,13 +39,12 @@ Primary use:	Showcase Portfolio
 		color:#777;
 		background-color:#000;
 		overflow-x: hidden; /* Impede rolagem horizontal */
-  		max-width: 100%;
+		box-sizing: border-box;
 	}
 	
 	html {
 		box-sizing: border-box;
 		margin-right: 0px!important;
-		overflow: visible!important;
 	}
 	
 	body {
