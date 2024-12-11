@@ -60,7 +60,7 @@ Primary use:	Showcase Portfolio
 		opacity:0;
 	}
 
-	img {
+	img, #burguer-wrapper.parallax-wrap {
 	  -webkit-tap-highlight-color: transparent;
 	  outline: none;
 	}
