@@ -2929,6 +2929,10 @@ Primary use:	Showcase Portfolio
 		transform: translate(-50%, -50%);
 	}
 
+	footer {
+		display: none;
+	}
+
 }
 
 .img-celular {
