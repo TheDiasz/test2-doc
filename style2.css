@@ -38,6 +38,8 @@ Primary use:	Showcase Portfolio
 		width:100%;
 		color:#777;
 		background-color:#000;
+		overflow-x: hidden; /* Impede rolagem horizontal */
+  		max-width: 100%;
 	}
 	
 	html {
